@@ -2,6 +2,8 @@
 
 The code was implemented on different systems (Windows, MacOS) so it might be hard to run the code until you adjust some of them.
 
+## Full_report: Refer to CIS519_Final_Project_Report.pdf
+
 
 ## step\_0\_1\_Bird Attributes
 This folder contains the code about how we collect the attributes of 175 seen bird species. We manually collect the attributes of the remaining 25 unseen bird species from online resources.
